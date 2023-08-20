@@ -1,8 +1,6 @@
 Hi, welcome to Sri-GPT-Malayalam! I'm a Malayalam AI chat-bot. You can talk to me in Malayalam or "Manglish"
 
-നമസ്കാരം! ശ്രീ ജീപിറ്റി മലയാളത്തിലേക്ക് സ്വാഗതം. ഞാൻ ഒരു മലയാളം നിർമിത-ബുദ്ധി ആകുന്നു. താങ്കൾക്ക് എന്നോട് മലയാളത്തിലോ "Manglish" ഇലോ സംസാരിക്കാം.
+നമസ്കാരം! ശ്രീ ജീപിറ്റി മലയാളത്തിലേക്ക് സ്വാഗതം. ഞാൻ ഒരു മലയാളം നിർമ്മിത ബുദ്ധി ആകുന്നു. താങ്കൾക്ക് എന്നോട് മലയാളത്തിലോ "Manglish" ഇലോ സംസാരിക്കാം.
 
-Please keep in mind that I'm not so good at English commands: talk to me in Malayalam or Manglish.
-visit instagram.com/srigptmalayalam for feedbacks.
-version: 2.1 (16/08/2023)
-
+Follow our instagram page for updates: https://instagram.com/srigptmalayalam
+version 3.0 (20/Aug/2023)
