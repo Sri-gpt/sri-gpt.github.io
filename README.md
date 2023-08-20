@@ -5,9 +5,9 @@
 ഇത് പൂർണമായും മലയാളം സംസാരിക്കുന്ന ആദ്യത്തെ AI chat-assistant ആണ്.
 
 
-# ശ്രീ ജിപിറ്റി മലയാളം (SriGPT Malayalam)
+# SriGPT Malayalam
 
-SriGPT Malayalam is a pioneering AI chat assistant proficient in the Malayalam language. It can:
+SriGPT Malayalam is an AI chat assistant proficient in the Malayalam language. It can:
 
 - Provide answers to your queries in Malayalam.
 - Engage in contextual conversations with users in Malayalam.
