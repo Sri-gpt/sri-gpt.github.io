@@ -17,5 +17,7 @@ This project is licensed under the [GPL3.0-or-later](LICENSE).
 Licence (SPDX-License-Identifier): GPL-3.0-or-later
 
  ## Contributors
- - [Karpathyan] (https://github.com/karpathyan)
+ - [Rajgowrav Cheenikundil, 100 %] (https://github.com/karpathyan)
+
+ - 
  [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/karpathyan)
