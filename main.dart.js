@@ -40217,7 +40217,7 @@ q=A.a7(n).j("aa<1,mD>")
 q=A.agL(A.aj(new A.aa(n,new A.aaD(p),q),!0,q.j("b7.E")),B.cn,B.EJ,B.eV)
 n=q}else n=A.tK(o,o,B.y,o,o,o,o,o,o)
 if(p.r)q=A.D7(new A.dp(B.AB,A.jT("Generating response, please wait: "+p.w,o,o,o,A.dx(o,o,o,o,o,o,o,o,o,o,o,24,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o),o,o)
-else{q=A.akr(o,new A.hf(4,A.CS(30),B.r),o,o,o,o,o,o,!0,o,o,o,o,o,o,B.zx,!0,o,o,o,o,o,o,o,o,o,o,o,"Type your message here...",o,o,o,o,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o)
+else{q=A.akr(o,new A.hf(4,A.CS(30),B.r),o,o,o,o,o,o,!0,o,o,o,o,o,o,B.zx,!0,o,o,o,o,o,o,o,o,o,o,o,"ഇവിടെ എഴുതുക...",o,o,o,o,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o)
 q=new A.dp(new A.aA(8,8,8,8),A.agL(A.a([A.ag1(new A.xE(p.e,q,B.wB,B.wl,B.wm,new A.aaE(p),!0,o)),A.agd(o,A.agc(B.Bd,o),new A.aaF(p),o,o)],t.F),B.cn,B.du,B.eV),o)}return new A.wC(new A.t9(s,new A.Oj(o,o,1/0,56),o),A.afJ(A.a([r,n,q],t.F),B.cn,B.du,B.eV),o)}}
 A.aaG.prototype={
 $1(a){return a.length!==0},
